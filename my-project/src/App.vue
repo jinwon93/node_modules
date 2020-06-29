@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <HellowWorld msg ="Hello World, This is my first project" />
     <router-view/>
   </div>
 </template>
